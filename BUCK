@@ -1,6 +1,6 @@
 cxx_library(
   name = 'nanopb',
-  header_namespace = 'nanopb',
+  header_namespace = '',
   exported_headers = [
     'pb.h',
     'pb_common.h',
